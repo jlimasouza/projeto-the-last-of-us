@@ -11,8 +11,7 @@ main::after{
     position: fixed;
     top: 0;
     left: 0;
-    background: rgb(0,0,0);
-    background: linear-gradient(90deg, rgba(0,0,0,0) 52%, rgba(0,0,0,0.5746673669467788) 80%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0.05926120448179273) 50%, rgba(0, 0, 0, 1) 90%);
     z-index: -1;
 }
 
